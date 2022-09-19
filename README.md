@@ -1,7 +1,11 @@
 Hola :) soy saul burciaga hernandez, uno de mis hobby es programar, en especial sobre el lenguaje python o kotlin,
 llevo 3 años usando el lenguaje python, conociendo sus framework mas populares, PySide, Django, FastAPI, kivy, kivyMD,
-entre otros, tambien tengo muy alto interes de aprender en las tecnologias moviles, aun que actualmente llevo 1 año
-manejando android studio con kotlin, y muy pronto comenzare aprender swiftUI para las plataformas de apple.
+entre otros, tambien tengo muy alto interes de aprender en las tecnologias moviles. aun que trabaje por 1 año con las tecnologias net
+con el lenguaje de C#
+
+
+<h2> hello there</h2>
+
 
 actualmente estoy por egresar de mi carrera de ingeneria informatica, me concidero ser 100% autodidacta,
 me apoyo en plataformas como udemy para mi desarrollo profesional.
